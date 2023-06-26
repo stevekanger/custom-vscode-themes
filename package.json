@@ -1,0 +1,31 @@
+{
+  "name": "custom-vscode-themes",
+  "displayName": "Custom VSCode Themes",
+  "description": "My Custom themes for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Blue (Custom Theme)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-blue.json"
+      },
+      {
+        "label": "Heroku (Custom Theme)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/heroku.json"
+      },
+      {
+        "label": "Stealth (Custom Theme)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/stealth.json"
+      }
+    ]
+  }
+}
