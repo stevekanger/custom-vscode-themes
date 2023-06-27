@@ -60,7 +60,7 @@
     "scrollbarSlider.background": "#3c4146aa",
     "scrollbarSlider.hoverBackground": "#3c404455",
     "tab.inactiveForeground": "#6c747c",
-    "editorGutter.background": "#08090a",
+    "editorGutter.background": "#0d0e0f",
     "editorGutter.modifiedBackground": "#f7b83d",
     "editorGutter.addedBackground": "#a7da1e",
     "editorGutter.deletedBackground": "#e61f44",
