@@ -35,6 +35,16 @@
         "label": "Azure (Custom Theme)",
         "uiTheme": "vs-dark",
         "path": "./themes/azure.json"
+      },
+      {
+        "label": "Downpour (Custom Theme)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/downpour.json"
+      },
+      {
+        "label": "Friction (Custom Theme)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/friction.json"
       }
     ]
   }
