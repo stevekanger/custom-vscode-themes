@@ -126,8 +126,9 @@
     "editorOverviewRuler.warningForeground": "#f7b83d",
     "editorOverviewRuler.infoForeground": "#9d37fc",
     "scrollbar.shadow": "#000000",
-    "editorSuggestWidget.highlightForeground": "#6ab0a3",
+    "editorSuggestWidget.highlightForeground": "#ffffff",
     "editorSuggestWidget.foreground": "#ffffff",
-    "editorSuggestWidget.selectedBackground": "#293348"
+    "editorSuggestWidget.selectedBackground": "#293348",
+    "editorSuggestWidget.selectedForeground": "#ffffff"
   }
 }
