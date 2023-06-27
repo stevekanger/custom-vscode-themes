@@ -18,6 +18,6 @@ Add a theme to the `theme` folder and then in `package.json` make sure the add i
 },
 ```
 
-If you like the default syntax like me then you can just copy one of themes and just paste in the colors from another theme you like.
+If you like the default syntax like me then you can just include the `./syntax.json` file in your theme.
 
 **Enjoy!**
