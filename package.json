@@ -30,6 +30,11 @@
         "label": "Slate (Custom Theme)",
         "uiTheme": "vs-dark",
         "path": "./themes/slate.json"
+      },
+      {
+        "label": "Azure (Custom Theme)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/azure.json"
       }
     ]
   }
