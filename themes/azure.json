@@ -4,7 +4,6 @@
   "include": "./syntax.json",
   "colors": {
     "foreground": "#ffffff",
-    "editor.background": "#040507",
     "editor.background": "#080a0d",
     "editorCursor.foreground": "#f8f8f0",
     "editor.foreground": "#ffffff",
@@ -61,7 +60,6 @@
     "scrollbarSlider.background": "#293348aa",
     "scrollbarSlider.hoverBackground": "#6ab0a355",
     "tab.inactiveForeground": "#4e6289",
-    "editorGutter.background": "#000000",
     "editorGutter.background": "#080a0d",
     "editorGutter.modifiedBackground": "#f7b83d",
     "editorGutter.addedBackground": "#a7da1e",
