@@ -50,7 +50,7 @@
     "editorWidget.background": "#171c27",
     "editorWidget.border": "#293348",
     "panelTitle.activeBorder": "#6ab0a3",
-    "menu.separatorBackground": "#152032",
+    "menu.separatorBackground": "#111111",
     "dropdown.background": "#000000",
     "dropdown.border": "#000000",
     "dropdown.foreground": "#ffffff",
