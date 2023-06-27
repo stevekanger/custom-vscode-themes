@@ -1,7 +1,7 @@
 {
   "name": "Stealth (Custom Theme)",
   "type": "dark",
-  "include": "./syntax.json",
+  "include": "./syntax-highlighting.json",
   "colors": {
     "foreground": "#ebebf4",
     "editor.background": "#19191f",

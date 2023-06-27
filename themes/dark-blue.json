@@ -1,7 +1,7 @@
 {
   "name": "Dark Blue (Custom Theme)",
   "type": "dark",
-  "include": "./syntax.json",
+  "include": "./syntax-highlighting.json",
   "colors": {
     "badge.foreground": "#f0f6fc",
     "badge.background": "#1f6feb",

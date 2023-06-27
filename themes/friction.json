@@ -1,7 +1,7 @@
 {
   "name": "Friction (Custom Theme)",
   "type": "dark",
-  "include": "./syntax.json",
+  "include": "./syntax-highlighting.json",
   "colors": {
     "foreground": "#7e7b99",
     "editor.background": "#0c0c0f",
