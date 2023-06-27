@@ -2,7 +2,7 @@
   "name": "custom-vscode-themes",
   "displayName": "Custom VSCode Themes",
   "description": "My Custom themes for vscode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -25,6 +25,11 @@
         "label": "Stealth (Custom Theme)",
         "uiTheme": "vs-dark",
         "path": "./themes/stealth.json"
+      },
+      {
+        "label": "Slate (Custom Theme)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slate.json"
       }
     ]
   }
