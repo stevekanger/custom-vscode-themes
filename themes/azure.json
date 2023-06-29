@@ -27,7 +27,7 @@
     "titleBar.activeBackground": "#000000",
     "list.activeSelectionBackground": "#52708b",
     "list.hoverBackground": "#0a0c11",
-    "list.activeSelectionForeground": "#040507",
+    "list.activeSelectionForeground": "#ffffff",
     "list.inactiveSelectionBackground": "#040507",
     "list.focusBackground": "#202838",
     "editorLineNumber.foreground": "#293348",
