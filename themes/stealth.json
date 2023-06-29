@@ -4,9 +4,10 @@
   "include": "./syntax-highlighting.json",
   "colors": {
     "foreground": "#c8c7d5",
+    "foreground": "#ffffff",
     "editor.background": "#0d0e0f",
     "editorCursor.foreground": "#f8f8f0",
-    "editor.foreground": "#5f656d",
+    "editor.foreground": "#ffffff",
     "editor.lineHighlightBackground": "#141617",
     "editor.selectionBackground": "#ffffff55",
     "sideBar.background": "#191b1d",
@@ -28,6 +29,7 @@
     "list.activeSelectionBackground": "#474c51",
     "list.hoverBackground": "#141617",
     "list.activeSelectionForeground": "#0d0e0f",
+    "list.activeSelectionForeground": "#ffffff",
     "list.inactiveSelectionBackground": "#0d0e0f",
     "list.focusBackground": "#313438",
     "editorLineNumber.foreground": "#3c4146",
@@ -53,7 +55,7 @@
     "panelTitle.activeBorder": "#3c4044",
     "dropdown.background": "#08090a",
     "dropdown.border": "#08090a",
-    "dropdown.foreground": "#c8c7d5",
+    "dropdown.foreground": "#ffffff",
     "menu.separatorBackground": "#152032",
     "panelTitle.inactiveForeground": "#60676f",
     "panel.border": "#3c4146",
@@ -127,8 +129,9 @@
     "editorOverviewRuler.warningForeground": "#f7b83d",
     "editorOverviewRuler.infoForeground": "#9d37fc",
     "scrollbar.shadow": "#000000",
-    "editorSuggestWidget.highlightForeground": "#3c4044",
+    "editorSuggestWidget.highlightForeground": "#ffffff",
     "editorSuggestWidget.foreground": "#5f656d",
-    "editorSuggestWidget.selectedBackground": "#3c4146"
+    "editorSuggestWidget.selectedBackground": "#3c4146",
+    "editorSuggestWidget.selectedForeground": "#ffffff"
   }
 }
