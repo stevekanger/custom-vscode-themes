@@ -2,6 +2,10 @@
   "name": "custom-vscode-themes",
   "displayName": "Custom VSCode Themes",
   "description": "My Custom themes for vscode",
+  "icon": "./icon.png",
+  "author": {
+    "name": "Steve Kanger"
+  },
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.79.0"
