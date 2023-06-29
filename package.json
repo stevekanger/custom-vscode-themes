@@ -45,6 +45,11 @@
         "label": "Friction (Custom Theme)",
         "uiTheme": "vs-dark",
         "path": "./themes/friction.json"
+      },
+      {
+        "label": "Tron (Custom Theme)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tron.json"
       }
     ]
   }

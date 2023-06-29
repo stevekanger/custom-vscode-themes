@@ -3,7 +3,6 @@
   "type": "dark",
   "include": "./syntax-highlighting.json",
   "colors": {
-    "foreground": "#c8c7d5",
     "foreground": "#ffffff",
     "editor.background": "#0d0e0f",
     "editorCursor.foreground": "#f8f8f0",
@@ -28,7 +27,6 @@
     "titleBar.activeBackground": "#040404",
     "list.activeSelectionBackground": "#474c51",
     "list.hoverBackground": "#141617",
-    "list.activeSelectionForeground": "#0d0e0f",
     "list.activeSelectionForeground": "#ffffff",
     "list.inactiveSelectionBackground": "#0d0e0f",
     "list.focusBackground": "#313438",
