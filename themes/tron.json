@@ -23,6 +23,7 @@
     "statusBar.foreground": "#ffffff",
     "editorGroup.background": "#0d1114",
     "tab.inactiveBackground": "#0f1317",
+    "tab.activeBorderTop": "#267fb5",
     "editorGroupHeader.tabsBackground": "#0d1114",
     "titleBar.activeBackground": "#000000",
     "list.activeSelectionBackground": "#11161b",
