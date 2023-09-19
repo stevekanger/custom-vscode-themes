@@ -4,7 +4,7 @@ I like the default syntax highlighting of vscodes Dark+ theme so I just converte
 
 ## Usage
 
-Clone the repository into the extensions folder. In Windows that folder is `C:\Users\Your_Username\.vscode\extensions`.
+Clone the repository into the extensions folder. In Windows that folder is `C:\Users\Your_Username\.vscode\extensions`. The name of the cloned folder may need to represent the package version. Eg. look in package.json and if the package number is 0.0.1 then your folder should be named `custom-vscode-themes-0.0.1`.
 
 ### Customizing your own themes
 
