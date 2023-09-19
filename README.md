@@ -8,7 +8,7 @@ Clone the repository into the extensions folder. In Windows that folder is `C:\U
 
 ### Customizing your own themes
 
-Add a theme to the `theme` folder and then in `package.json` make sure the add it to the `contributes.themes` like so:
+Add a theme to the `themes` folder and then in `package.json` make sure the add it to the `contributes.themes` like so:
 
 ```json
 {
