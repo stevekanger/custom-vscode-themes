@@ -41,6 +41,11 @@
         "path": "./themes/azure.json"
       },
       {
+        "label": "Azure Darker (Custom Theme)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/azure-darker.json"
+      },
+      {
         "label": "Downpour (Custom Theme)",
         "uiTheme": "vs-dark",
         "path": "./themes/downpour.json"
